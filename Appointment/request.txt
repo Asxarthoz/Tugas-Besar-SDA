@@ -1,0 +1,4 @@
+Daffa:Sigma/13.00/1000:Zidan/14.00/1001
+Dafandi:Izam/14.00/1000:Nizam/15.00/1001
+Sigma:Sigma/03.00/1000:Zidan/14.00/1001
+Joja:Sigma/13.00/1000
