@@ -187,9 +187,17 @@ Sistem ini merupakan aplikasi manajemen rumah sakit berbasis Java, yang mengimpl
 
 ## 👥 Anggota Tim beserta Jobdesknya
 
-- Muhamad Zidan Dicky Nasuha (L0124061)  : Membuat struktur data untuk pasien dan dokter beserta 
-- Naomira Aulin Afnan Faiza (L0124067)  : Membuat struktur data BST beserta penjelasan readme mengenai pasien
-- Muhammad Rafian Surya Muqsith (L0124111)  : Membuat struktur data appointment beserta penjelasan readme mengenai dokter
-- Radit Alfa Anugerah Bombing (L0124116) : Membuat queue pada appointment beserta penjelasan readme mengenai 
+- Muhamad Zidan Dicky Nasuha (L0124061)
+  - Struktur data untuk pasien dan dokter beserta menu, main, dan map
+  - Penjelasan readme mengenai menu, main, dan admin.
+- Naomira Aulin Afnan Faiza (L0124067)
+  - Struktur data BST
+  - Penjelasan readme mengenai pasien.
+- Muhammad Rafian Surya Muqsith (L0124111)
+  - Struktur data appointment
+  - Penjelasan readme mengenai dokter
+- Radit Alfa Anugerah Bombing (L0124116)
+  - Queue pada appointment
+  - Penjelasan readme mengenai appointment
 
 ---
