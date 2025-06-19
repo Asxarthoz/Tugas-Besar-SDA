@@ -190,14 +190,18 @@ Sistem ini merupakan aplikasi manajemen rumah sakit berbasis Java, yang mengimpl
 - Muhamad Zidan Dicky Nasuha (L0124061)
   - Struktur data untuk pasien dan dokter beserta menu, main, dan map
   - Penjelasan readme mengenai menu, main, dan admin.
+  - Membuat video demo admin dan mengedit video.
 - Naomira Aulin Afnan Faiza (L0124067)
-  - Struktur data BST
+  - Struktur data untuk pasien dan BST.
+  - Mengoreksi kode program.
   - Penjelasan readme mengenai pasien.
+  - Merapikan serta melengkapi readme.
 - Muhammad Rafian Surya Muqsith (L0124111)
   - Struktur data appointment
   - Penjelasan readme mengenai dokter
+  - Membuat video demo dokter.
 - Radit Alfa Anugerah Bombing (L0124116)
   - Queue pada appointment
   - Penjelasan readme mengenai appointment
-
+  - Membuat video demo pasien.
 ---
